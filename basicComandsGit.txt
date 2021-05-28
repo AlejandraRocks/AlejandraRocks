@@ -1,0 +1,23 @@
+Basic comands for GitHub:
+
+1.
+
+git config --global user.name "AlejandraRocks"
+2.
+
+git config --global user.email "alevera007@gmail.com"
+3.
+
+whoami  
+
+4. pwd "which folder who I am"
+
+4. ls -l  "details of files"
+
+5. ls -F  "show folder and files"
+
+6. git help " give you an overview"
+
+7. git init "create a local repository"
+
+8. git status 
